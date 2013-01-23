@@ -363,3 +363,7 @@ h1 > small { display: block; }
 
 .prices {
 }
+
+.address {
+  font-size: 18px;
+}
